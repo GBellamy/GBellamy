@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbellamy" alt="gbellamy" /></a> </p>
 
-- 🌱 J'étoffe mes compétences sur **NodeJS & Python**
+- 🌱 J'étoffe mes compétences sur : **NodeJS & Python**
 
-- 📫 Me contacter **guillaume.bellamy04@gmail.com**
+- 📫 Me contacter : **guillaume.bellamy04@gmail.com**
 
-- ⚡ Trucs en plus **Passionné de sports mécaniques et d'aéronautique**
+- ⚡ Trucs en plus : **Passionné de sports mécaniques et d'aéronautique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
