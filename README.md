@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Guillaume Bellamy</h1>
 <h3 align="center">Développeur React & React Native</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbellamy" alt="gbellamy" /></a> </p>
-
 - 🌱 J'étoffe mes compétences sur : **NodeJS & Python**
 
 - 📫 Me contacter : **guillaume.bellamy04@gmail.com**
