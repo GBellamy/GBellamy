@@ -11,7 +11,7 @@
 
 - ➡️ I'm currently working on mobile apps and a lot of fun stuff !
 
-- 🍃 Keep an eye out for my _very_ secret project !
+- 🍃 Check out what I've been working on at https://terrawatch.fr/ !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
